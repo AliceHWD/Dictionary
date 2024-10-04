@@ -27,17 +27,6 @@ namespace Aula_Tupla
                     break;
             }
 
-            
-
-            //string opcao = Console.ReadLine();
-
-            //switch (opcao)
-            //{
-            //    //case "1":
-
-            //}
-
-
             Console.ReadKey();
         }
 
